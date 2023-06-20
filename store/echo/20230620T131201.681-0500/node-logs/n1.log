@@ -1,4 +1,0 @@
-Error: Maelstrom input from STDIN could not be deserialized
-
-Caused by:
-    missing field `type` at line 1 column 118
